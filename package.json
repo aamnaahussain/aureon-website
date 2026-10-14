@@ -1,0 +1,11 @@
+{
+  "name": "aureon-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Aureon Ventures & Technologies website: content in src/, generated static pages at the project root.",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node serve.mjs"
+  }
+}
